@@ -1,0 +1,13 @@
+F:\ASP.NET\Project\19-12-14\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+F:\ASP.NET\Project\19-12-14\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+F:\ASP.NET\Project\19-12-14\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+F:\ASP.NET\Project\19-12-14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+F:\ASP.NET\Project\19-12-14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+F:\ASP.NET\Project\19-12-14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+F:\ASP.NET\Project\19-12-14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+F:\ASP.NET\Project\19-12-14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.MenuUi.resources
+F:\ASP.NET\Project\19-12-14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentSearch.resources
+F:\ASP.NET\Project\19-12-14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.EntryUI.resources
+H:\FTFL\BCC\ASP.NET\My Code\Day8 20-12-14\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+H:\FTFL\BCC\ASP.NET\My Code\Day8 20-12-14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+H:\FTFL\BCC\ASP.NET\My Code\Day8 20-12-14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
